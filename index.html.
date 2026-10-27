@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>TP1 - PowerShell</title>
+</head>
+<body>
+    <h1>Trabajo Práctico 1 - PowerShell</h1>
+    <p>Materia: Programación para Seguridad Informática</p>
+    <p>Docente: Lic. Carlos Pacheco</p>
+    <p>Este trabajo utiliza un script de PowerShell
+    para consultar la versión de PowerShell,
+    la política de ejecución y la información
+    del sistema operativo y de la computadora.</p>
+    <p>Archivo del trabajo: tp1.ps1</p>
+</body>
+</html> 
